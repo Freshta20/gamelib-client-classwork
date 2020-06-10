@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img {
+  max-height: 400px;
+  max-width: 800px;
+  width: 100%;
+}
+
+.fa-trash {
+  font-size: 24px;
+  padding: 5px;
+}
+
+.edit {
+  cursor: pointer;
+  font-size: 24px;
+  padding-right: 20px;
+}
